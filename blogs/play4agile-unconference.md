@@ -1,4 +1,4 @@
-(Back)[../]
+[Back](../)
 
 ![Play4Agile Agenda](play4agile-unconference.jpg "Play4Agile Agenda")
 
