@@ -11,4 +11,6 @@ layout: default
 
 # Open Information
 
-Coming soon...
+## Play4Agile - 2019
+
+* [What is an Unconference?](blogs/play4agile-unconference.html)
