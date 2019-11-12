@@ -17,7 +17,12 @@ Adoption of Agile, Working in the Open, Cloud and Inclusive Design MUST be suppo
 
 Clear, concise and consistent communication is a requirement.
 
-## 4) Communication: 
+## 4) Communication
 
 Macro (Dept<>TBS<>SSC) and Micro (Exec<>Managment<>Staff) needs to be done early, often, and truthfully. 
 Be transparent, and accurate, misinformation and late information will only hurt us all.
+
+## 5) Buyer Beware 
+
+While lots of things are released and tested on the open market, they don't necessarily function as intended.
+Make sure you add contingency time to account for this, as there may be a lot of back and forth.
